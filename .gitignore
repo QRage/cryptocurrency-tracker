@@ -1,0 +1,19 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Secrets
+service_account.json
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
